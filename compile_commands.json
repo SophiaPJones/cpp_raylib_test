@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I",
+      "include",
+      "src/main.cpp",
+      "-o",
+      "bin/main.o"
+    ],
+    "directory": "/home/sophia/projects/cells",
+    "file": "/home/sophia/projects/cells/src/main.cpp",
+    "output": "/home/sophia/projects/cells/bin/main.o"
+  }
+]
